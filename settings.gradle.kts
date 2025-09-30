@@ -21,4 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "ECShop"
 include(":app")
- 
+include(":core")
+include(":feature-list")
+include(":domain")
+include(":data")
+include(":feature-details")
